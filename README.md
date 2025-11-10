@@ -128,8 +128,7 @@ time, place, latitude, longitude, depth, magnitude
 ---
 
 ## 📸 Preview (Example)
-> ![Dashboard Preview](https://raw.githubusercontent.com/<your-username>/earthquake-decision-support-dashboard/main/preview.png)
-
+> ![Dashboard Preview](./preview.png)
 ---
 
 ## 💾 License
