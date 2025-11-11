@@ -30,7 +30,14 @@ st.markdown(
 )
 
 # Upload CSV file.............................................
-default_csv = r"D:\Pycharm Project\Mypycharmtest\eq_catalog.csv"
+#default_csv = r"D:\Pycharm Project\Mypycharmtest\eq_catalog.csv"
+import os
+
+# Get current directory of this script
+current_dir = os.path.dirname(__file__)
+
+# Build path relative to script
+default_csv = os.path.join(current_dir, "eq_catalog.csv")
 
 uploaded_file = st.file_uploader("📂 Please upload a Earthquake CSV file to begin analysis, otherwise start with default CSV", type=['csv'])
 
