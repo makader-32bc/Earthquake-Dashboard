@@ -1,5 +1,7 @@
 # 🌋 Earthquake Decision Support Dashboard
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://earthquake-dashboard-cgvhfezrzxbdrbxzjwxhnw.streamlit.app/)
+
 An interactive and analytical dashboard built with **Streamlit**, **Plotly**, and **Pandas** — designed to help geologists, researchers, and decision-makers monitor, visualize, and analyze earthquake activity in real-time.  
 
 This project provides insights into **risk levels, tectonic behavior, aftershock clustering, and event trends**, offering a decision-support framework for emergency preparedness and geological studies.It is part of the Data Science and MLOps course task from Bongodev, designed to help newcomers develop analytical thinking and visualization skills.
